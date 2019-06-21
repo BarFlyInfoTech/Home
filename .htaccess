@@ -1,3 +1,5 @@
-order deny,allow
-deny from all
-allow from 40.136.187.66
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteCond %{REMOTE_ADDR} !^111\.111\.111\.111$ #40.136.187.66
+    RewriteRule .* - [F]
+</IfModule>
