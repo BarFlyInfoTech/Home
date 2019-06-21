@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Knowledgebase
-permalink: /knowledgebase/
+permalink: /BFV I.T. Knowledgebase/
 ---
 
 ## Welcome to my KB.

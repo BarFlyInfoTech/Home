@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Knowledgebase
-permalink: /knowledgebase/
+permalink: /BarFly Ventures/
 ---
 
 ## Welcome to my KB.
