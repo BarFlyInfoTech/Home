@@ -1,0 +1,3 @@
+order deny,allow
+deny from all
+allow from 40.136.187.66
